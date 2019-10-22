@@ -3,3 +3,5 @@
 form validation-state mgmt
 
 simple form validation with bootstrap
+
+npm start
